@@ -23,3 +23,7 @@ p {
     margin-top: 50px;
     margin-left: 700px;
 }
+
+form {
+  text-align: center;
+}
