@@ -11,7 +11,7 @@ iframe {
     margin-left: 650px;
 }
 
-img {
+img1 {
     padding: 0px;
     margin-top: 50px;
     margin-right: 800px;
@@ -20,4 +20,11 @@ img {
 
 p {
     text-align: center;
+}
+
+img2 {
+    // padding: 0px;
+   // margin-top: 50px;
+    // margin-right: 800px;
+    // margin-left: 800px;
 }
